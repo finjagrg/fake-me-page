@@ -113,6 +113,14 @@ p {
     margin-bottom: -20px;
   }
 
+  .app-heading {
+    margin-top: 20px;
+  }
+
+  .app-button {
+    margin-bottom: 20px;
+  }
+
   .email-link {
     font-size: 20px;
   }
